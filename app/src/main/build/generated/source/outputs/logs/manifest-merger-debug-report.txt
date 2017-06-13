@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from D:\fp\Resepku\app\src\main\AndroidManifest.xml
+		INJECTED from D:\fp\Resepku\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\fp\Resepku\app\src\main\AndroidManifest.xml
+		INJECTED from D:\fp\Resepku\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\fp\Resepku\app\src\main\AndroidManifest.xml
+		INJECTED from D:\fp\Resepku\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\noob\.android\build-cache\722e45e73f712c9c6d4885c6a61be3a426d50d47\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\noob\.android\build-cache\a3548f70b9823244914196080da76bec9f28c2e0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\noob\.android\build-cache\a396a83b2d66ec3620709b6eccff0793a118a867\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\noob\.android\build-cache\347ad0149d3f96a16c65760ae5cb3bc4e484bd95\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\noob\.android\build-cache\b79f45958b3998db4e9553de270bf261ac5e4bd9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\noob\.android\build-cache\1dc992ae201b2d2b9a3885849604b8a836b2a83f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\noob\.android\build-cache\20f1d8b6d98bf2997c1d15eb67ab3d4cc8c16ff0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\noob\.android\build-cache\f25f63d8139dbb4927c782b42a54be12c56a1e61\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\noob\.android\build-cache\422363076acde4a44d4352fd62b1461e5242708c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\noob\.android\build-cache\16ff11c2bdd319a36ea2f22fdf7274520be8c6df\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\noob\.android\build-cache\7717571841bd3f0868b0f827cb925f63e7e105c3\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:11:9-48
+	android:allowBackup
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:13:9-44
+activity#com.resep.alif.activity.LoadingActivity
+ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:16:19-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.resep.alif.activity.ListKategoriActivity
+ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:25:9-67
+	android:name
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:25:19-64
+activity#com.resep.alif.activity.ListResepActivity
+ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:26:9-64
+	android:name
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:26:19-61
+activity#com.resep.alif.activity.PembukaResepActivity
+ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:27:9-66
+	android:name
+		ADDED from D:\fp\Resepku\app\src\main\AndroidManifest.xml:27:19-64
+uses-sdk
+INJECTED from D:\fp\Resepku\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\noob\.android\build-cache\722e45e73f712c9c6d4885c6a61be3a426d50d47\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\noob\.android\build-cache\a3548f70b9823244914196080da76bec9f28c2e0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\noob\.android\build-cache\a396a83b2d66ec3620709b6eccff0793a118a867\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\noob\.android\build-cache\347ad0149d3f96a16c65760ae5cb3bc4e484bd95\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\noob\.android\build-cache\b79f45958b3998db4e9553de270bf261ac5e4bd9\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\noob\.android\build-cache\1dc992ae201b2d2b9a3885849604b8a836b2a83f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\noob\.android\build-cache\20f1d8b6d98bf2997c1d15eb67ab3d4cc8c16ff0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\noob\.android\build-cache\36445844190fb9e5e2eb435459b5c1f4ff1b5144\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\noob\.android\build-cache\f25f63d8139dbb4927c782b42a54be12c56a1e61\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\noob\.android\build-cache\422363076acde4a44d4352fd62b1461e5242708c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\noob\.android\build-cache\16ff11c2bdd319a36ea2f22fdf7274520be8c6df\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\noob\.android\build-cache\7717571841bd3f0868b0f827cb925f63e7e105c3\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\noob\.android\build-cache\722e45e73f712c9c6d4885c6a61be3a426d50d47\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\fp\Resepku\app\src\main\AndroidManifest.xml
+		INJECTED from D:\fp\Resepku\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\fp\Resepku\app\src\main\AndroidManifest.xml
+		INJECTED from D:\fp\Resepku\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\noob\.android\build-cache\722e45e73f712c9c6d4885c6a61be3a426d50d47\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\noob\.android\build-cache\a3548f70b9823244914196080da76bec9f28c2e0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\noob\.android\build-cache\a396a83b2d66ec3620709b6eccff0793a118a867\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\noob\.android\build-cache\347ad0149d3f96a16c65760ae5cb3bc4e484bd95\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\noob\.android\build-cache\b79f45958b3998db4e9553de270bf261ac5e4bd9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\noob\.android\build-cache\1dc992ae201b2d2b9a3885849604b8a836b2a83f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\noob\.android\build-cache\20f1d8b6d98bf2997c1d15eb67ab3d4cc8c16ff0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\noob\.android\build-cache\36445844190fb9e5e2eb435459b5c1f4ff1b5144\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\noob\.android\build-cache\f25f63d8139dbb4927c782b42a54be12c56a1e61\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\noob\.android\build-cache\422363076acde4a44d4352fd62b1461e5242708c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\noob\.android\build-cache\16ff11c2bdd319a36ea2f22fdf7274520be8c6df\output\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\noob\.android\build-cache\722e45e73f712c9c6d4885c6a61be3a426d50d47\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\noob\.android\build-cache\722e45e73f712c9c6d4885c6a61be3a426d50d47\output\AndroidManifest.xml:26:9-47
